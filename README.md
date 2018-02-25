@@ -150,7 +150,7 @@ If your tweets don't appear, it could be that they're duplicates or longer that 
 
 Yay, your bot is tweeting! But of course you don't want to have to manually load a url everytime you want to generate a new tweet. To automate your bot's behaviour you can use a 'web cron' service. You give these services a url, tell them how often to visit it, and they'll load the url automatically. For @TroveTribuneBot I'm using a free service called [cron-job.org](https://cron-job.org/en/). Search for 'web cron' if you want to explore the alternatives.
 
-Just create an account with cron-job.org, or the service of your choice, and tell it to visit your bot's `random` url at a suitable frequency.
+Just create an account with cron-job.org, or the service of your choice, and tell it to visit your bot's `random` url at a suitable frequency. 
 
 ## Potential problems
 
